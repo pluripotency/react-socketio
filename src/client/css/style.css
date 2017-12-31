@@ -1,0 +1,37 @@
+.fade-in {animation: fade-in 0.5s;}
+@keyframes fade-in {
+    from {opacity:0;}
+    to {opacity:1;}
+}
+
+/*.blog-post {*/
+    /*font-size: 1.2em;*/
+/*}*/
+
+/*.blog-description {*/
+    /*color: #717171;*/
+/*}*/
+/*.blog-post-meta {*/
+    /*color: #717171;*/
+/*}*/
+
+/*.blog-post > p ul li {*/
+    /*display: block;*/
+    /*-webkit-margin-before: 1em;*/
+    /*-webkit-margin-after: 1em;*/
+    /*-webkit-margin-start: 0px;*/
+    /*-webkit-margin-end: 0px;*/
+/*}*/
+/*li {*/
+    /*display: list-item;*/
+    /*text-align: -webkit-match-parent;*/
+/*}*/
+/*ul {*/
+    /*display: block;*/
+    /*list-style-type: disc;*/
+    /*-webkit-margin-before: 1em;*/
+    /*-webkit-margin-after: 1em;*/
+    /*-webkit-margin-start: 0px;*/
+    /*-webkit-margin-end: 0px;*/
+    /*-webkit-padding-start: 40px;*/
+/*}*/
